@@ -1,1 +1,0 @@
-document.querySelectorAll(".card").forEach(c=>{c.onmouseenter=()=>c.style.transform="scale(1.05)";c.onmouseleave=()=>c.style.transform="scale(1)";});
